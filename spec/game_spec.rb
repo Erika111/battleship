@@ -16,4 +16,6 @@ describe Game do
     expect(game.player1.score).to eq(0)
   end
 
+
+
 end
